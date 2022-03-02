@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Screen
+  m_Name: Ceiling Light
   m_Shader: {fileID: 4800000, guid: 0b7113dea2069fc4e8943843eff19f70, type: 3}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 2
@@ -74,5 +74,5 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0, g: 0, b: 0, a: 1}
-    - _EmissionColor: {r: 0.50918806, g: 2.2811625, b: 5.030778, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 1.9999998, g: 1.9790574, b: 1.9267013, a: 1}
