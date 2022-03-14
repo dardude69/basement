@@ -128,7 +128,7 @@ MonoBehaviour:
     - Translation: {x: 0, y: 0}
       Scale: {x: 1, y: 1}
       RotationAngle: 0
-      RenderMaterial: {fileID: 2100000, guid: b97ec88e269e0554980e460da975d229, type: 2}
+      RenderMaterial: {fileID: 2100000, guid: d27f030a25ad75e448f0338634d179dd, type: 2}
       PhysicsMaterial: {fileID: 0}
       SmoothingGroup: 0
     - Translation: {x: 0, y: 0}
